@@ -1,0 +1,28 @@
+*{
+    padding:0;
+    margin:0;
+
+}
+ .container{
+    height:100%;
+    width:100%;
+    background: linear-gradient(30deg,#CA33FF,#33DDFF);
+}
+.move{
+    height:100px;
+   width:100px;
+   margin-left:100px;
+
+
+}
+.first{
+    margin-left:100px;
+
+    align-items: center;
+}
+.img1{
+    height:50px;
+    width:5px;
+}
+
+ 
